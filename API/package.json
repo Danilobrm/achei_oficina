@@ -1,0 +1,19 @@
+{
+  "name": "api_acheioficina",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilobrm/achei-oficina.git"
+  },
+  "author": "danilobrm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danilobrm/achei-oficina/issues"
+  },
+  "homepage": "https://github.com/Danilobrm/achei-oficina#readme",
+  "description": ""
+}
